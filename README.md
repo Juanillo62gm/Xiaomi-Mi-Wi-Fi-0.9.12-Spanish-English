@@ -1,5 +1,9 @@
 # Xiaomi Mi Wi-Fi 0.9.7 Spanish/English
 
+<p align="center"> 
+<img src="http://i.imgur.com/9uxy5J9.png">
+</p>
+
 ## Como instalar el parche para traducir la app al español:
 
 1. Descargamos el .zip.
