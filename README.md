@@ -1,4 +1,4 @@
-# Xiaomi Mi Wi-Fi 0.9.7 Spanish/English
+# Xiaomi Mi Wi-Fi 0.9.12 Spanish/English
 
 <p align="center"> 
 <img src="http://i.imgur.com/9uxy5J9.png">
@@ -47,5 +47,6 @@
 <img src="http://i.imgur.com/duTVtiV.png">
 </p>
 <p align="center"> 
-<img src="http://i.imgur.com/vfn73aa.png">
+<img src="http://i.imgur.com/DA3MqxW.png">
 </p>
+
