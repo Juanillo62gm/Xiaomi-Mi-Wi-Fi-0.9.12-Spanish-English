@@ -1,0 +1,262 @@
+/*
+ Localizable.strings
+ XMRouter
+
+ Created by 赵 国辉 on 13-10-10.
+ Copyright (c) 2013年 xiaomi. All rights reserved.
+
+ Translated by Juanillo62gm
+ Traducido por Juanillo62gm
+ */
+
+"xq_status_bar_menu_item_check_update" = "Comprobar Actualizaciones";
+
+"xq_status_bar_menu_space_usage_info" = "Usado %.1f%%, total %@";
+
+"xq_status_bar_menu_access_manager_platform" = "Ajustes del Router";
+
+"xq_status_bar_menu_item_about" = "Acerca de";
+
+"xq_status_bar_menu_item_exit" = "Salir";
+
+"xq_status_bar_menu_item_logout" = "Cerrar Sesión";
+
+"xq_user_guide_window_title" = "Guia de Usuario";
+
+"xq_status_bar_menu_setting" = "Preferencias";
+
+"xq_login_btn_title" = "Iniciar Sesión";
+
+"xq_login_btn_cancel" = "Cancelar";
+
+"xq_user_guide_finish_btn_title" = "La instalación se ha completado";
+
+"xq_add_new_link_download_menu_item" = "Añadir Enlace";
+
+"xq_alert_message_device_not_bind" = "Dispositivo no vinculado";
+
+"xq_alert_message_no_device" = "Ningun dispositivo conectado";
+
+"xq_add_new_bt_download_menu_item" = "Añadir Torrent";
+
+"xq_add_download_task_window_title" = "Descargas";
+
+"xq_add_download_task_window_title_number" = "%d descargas";
+
+"xq_router_volume_title" = "Almacenamiento";
+
+"xq_new_task_list_empty_text" = "No hay descargas activas";
+
+"xq_new_task_list_add_new_task_text" = "Haga clic en \"+ \" Para añadir una descarga";
+
+"xq_router_is_switching" = "Actualizando Información";
+
+"xq_input_new_download_link" = "Nuevo enlace de descarga";
+
+"xq_add_new_task_window_title" = "Nuevo enlace de descarga";
+
+"xq_download_now_btn_title" = "Descargar";
+
+"xq_download_status_pause" = "Pausar";
+
+"xq_download_status_stop" = "Parar";
+
+"xq_download_status_waiting" = "Esperando";
+
+"xq_flag_remote" = "（Xiaomi）";
+
+"xq_download_status_pausing" = "Pausando la descarga...";
+
+"xq_download_status_restarting" = "Reiniciando la descarga...";
+
+"xq_download_status_deleting" = "Eliminando la descarga...";
+
+"xq_download_status_invalid_link" = "Enlace no valido";
+
+"xq_choose_file_btn_title" = "Seleccionar Archivo";
+
+"xq_choose_file_panel_title" = "Elegir un archivo de Semilla";
+
+"xq_download_im_btn_title" = "Descargar";
+
+"xq_download_cancel_btn_title" = "Cancelado";
+
+"xq_client_already_lastest_version" = "Nueva versión disponible";
+
+"xq_alert_ok_btn" = "Aceptar";
+
+"xq_is_waiting_for_connect" = "Esperando la conexión...";
+
+"xq_link_download_failed" = "La operación ha fallado, vuelva a intentarlo";
+
+"xq_mount_status_mounting" = "Montando";
+
+"xq_about_copyright_string" = "Copyright © 2014 xiaomi. Todos los derechos reservados.";
+
+"xq_about_version_string" = "Versión %@";
+
+"xq_about_app_name" = "Xiaomi Mi Wifi";
+
+"xq_update_version_format" = "Nueva versión disponible, el número de versión más reciente %@";
+
+"xq_update_window_title" = "Comprobar si hay actualizaciones";
+
+"xq_update_btn_title" = "Actualizar";
+
+"xq_download_redownload" = "Descargar de nuevo";
+
+"xq_download_cancel_download" = "Cancelar descarga";
+
+"xq_download_duplicated_info" = "La descarga actual ya existe, ¿Quiere volverla a descargar?";
+
+"xq_download_bt_panel_title" = "¿Desea descargar el archivo?";
+
+"xq_xunlei_engine_error_message" = "Error de la App";
+
+"xq_no_network_text" = "Dispositivo desconectado de la red";
+
+"xq_download_completed_text" = "Descarga Completada";
+
+"xq_download_completed_info" = "%@ esperar %lu y otras descargas para terminar";
+
+"xq_terminate_chrome_text" = "Para instalar extensión del Xiaomi Mi Router para Chrome, necesita cerrar el navegador antes de continuar";
+
+"xq_open_download_file" = "Abrir Archivo";
+
+"xq_close_notification" = "Cerrar";
+
+"xq_alert_delete_download_tasks" = "Borrar %@";
+
+"xq_alert_tasks_count" = "Esperar %ld y otras tareas";
+
+"xq_message_r1c_no_usb" = "Insertar dispositivo de almacenamiento";
+
+"xq_message_r1c_no_usb_detail" = "Sistemas Soportados NTFS/FAT/FAT32";
+
+"xq_message_r1c_wrong_usb" = "El USB no es compatible con el sistema de archivos";
+
+"xq_message_r1c_wrong_usb_detail" = "Actualmente sólo es compatible con FAT32 y dispositivos USB de formato exFAT";
+
+"xq_message_r1c_ro_usb" = "El dispositivo está protegido contra escritura";
+
+"xq_message_remove_usb_device_success" = "Se ha desconectado el dispositivo USB externo con éxito";
+
+"xq_message_remove_usb_device_fail" = "No se ha desconectado el dispositivo USB externo correctamente";
+
+"xq_menu_title_remove_usb_device" = "Expulsar el dispositivo USB externo";
+
+"xq_message_install_usb_device" = "Insertar dispositivo de almacenamiento";
+
+"xq_setting_tool_item_common" = "Común";
+
+"xq_setting_tool_item_browser" = "Navegador";
+
+"xq_setting_common_setting_title" = "Configuración General:";
+
+"xq_setting_show_notification_when_finished" = "Notificaciones";
+
+"xq_setting_run_after_launch" = "AutoStart";
+
+"xq_setting_chrome_plugin" = "Extensión para Chrome";
+
+"xq_setting_safari_plugin" = "Extensión para Safari";
+
+"xq_setting_install_plugin" = "Instalar";
+
+"xq_setting_uninstall_plugin" = "Desinstalar";
+
+"xq_ui_login_input_password" = "Contraseña";
+
+"xq_ui_login_input_username" = "Usuario";
+
+"xq_ui_login_check_password" = "Recordar";
+
+"xq_ui_login_check_autologin" = "AutoLog";
+
+"xq_ui_otp_login_input_otp_code" = "Por favor, introduzca una contraseña de seis caracteres";
+
+"xq_ui_otp_login_check_private" = "Este es un dispositivo privado";
+
+"xq_ui_otp_login_check_public" = "Este es un dispositivo público";
+
+"xq_ui_dialog_cancel" = "Cancelar";
+
+"xq_ui_dialog_confirm" = "Confirmar";
+
+"xq_ui_delete_with_file" = "Eliminar descarga y archivos";
+
+"xq_ui_setting_language" = "Idioma：";
+
+"xq_error_invalid_account" = "El número de cuenta no es válido";
+
+"xq_error_login_verify_failed" = "Nombre de usuario o contraseña son incorrectos";
+
+"xq_error_unkown_error" = "Error desconocido";
+
+"xq_error_disk_full" = "No queda espacio disponible en el dispositivo USB externo";
+
+"xq_error_login_network_failed" = "No se puede conectar con el servidor";
+
+
+
+"xq_bind_add_new_router" = "Añadir Router";
+
+"xq_bind_searching_router" = "Conectando al Router, por favor espere";
+
+"xq_bind_find_an_unbound_router" = "Se ha encontrado un Router disponible para vincular";
+
+"xq_bind_find_no_result" = "No se ha encontrado un Router disponible para vincular";
+
+"xq_bind_bind_success" = "Felicidades, vinculado correctamente!";
+
+"xq_bind_bind_failed" = "Error al vincular por favor, inténtalo de nuevo más tarde";
+
+"xq_bind_prepare_find_router" = "Asegúrese de que se ha conectado al Router";
+
+"xq_bind_bind_now" = "Vincular Ahora";
+
+"xq_bind_confirm" = "Confirmar vinculación";
+
+"xq_bind_setup_now" = "Configurar Ahora";
+
+"xq_bind_router_is_connected" = "El Router esta conectado";
+
+"xq_bind_retry_connect" = "Reintentar conexión";
+
+"xq_bind_retry_bind" = "Reintentar vinculación";
+
+"xq_bind_done" = "Vincular";
+
+"xq_bind_empty_password" = "La contraseña no puede estar vacía";
+
+"xq_url_reg_new_user" = "https://account.xiaomi.com/pass/register?_locale=zh_CN";
+
+"xq_ui_login_open_register_page" = "¿Nuevo?";
+
+"xq_passport_login_page_verifycode_placeholder" = "Codigo de Verificación";
+
+"xq_disk_no_space_left" = "No hay espacio disponible";
+
+"xq_clean_space_on_disk" = "Elimine archivos inutiles para liberar espacio en el disco";
+
+"xq_usb_drive_make_sure_network_ok" = "Compruebe que tiene conexión a internet";
+
+"xq_usb_drive_initialized_need_network" = "El dispositivo de almacenamiento requiere una inicialización de conexión de red";
+
+"xq_usb_drive_read_only" = "Dispositivo de almacenamiento está protegida contra escritura";
+
+"xq_usb_drive_retry_after_allow_write" = "Inténtelo de nuevo al desactivar la protección contra escritura";
+
+"xq_usb_drive_initialized_error" = "Error de inicialización del servicio";
+
+"xq_usb_drive_retry_or_restart_router" = "Inténtelo de nuevo o reinicia el router";
+
+"xq_usb_drive_performance_bad" = "Bajo rendimiento del dispisitivo de ala";
+
+"xq_usb_drive_affect_use_recommand_mobile_hd" = "Podria afectar a la descarga, se recomienda el uso de un disco duro externo";
+
+"xq_usb_drive_unknown_error" = "Error desconocido";
+
+"xq_usb_drive_upgrade_app_or_router" = "Actualice el router y la app para reintentar";
+
+"xq_usb_drive_install_retry" = "Reintentar";
