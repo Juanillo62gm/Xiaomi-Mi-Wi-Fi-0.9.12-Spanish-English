@@ -5,8 +5,7 @@
  Created by 赵 国辉 on 13-10-10.
  Copyright (c) 2013年 xiaomi. All rights reserved.
 
- Translated by Juanillo62gm
- Traducido por Juanillo62gm
+ Traducido por @Juanillo62gm
  */
 
 "xq_status_bar_menu_item_check_update" = "Comprobar Actualizaciones";
@@ -19,7 +18,7 @@
 
 "xq_status_bar_menu_item_exit" = "Salir";
 
-"xq_status_bar_menu_item_logout" = "Cerrar Sesión";
+"xq_status_bar_menu_item_logout" = "Cerrar sesión";
 
 "xq_user_guide_window_title" = "Guia de Usuario";
 
@@ -47,7 +46,7 @@
 
 "xq_new_task_list_empty_text" = "No hay descargas activas";
 
-"xq_new_task_list_add_new_task_text" = "Haga clic en \"+ \" Para añadir una descarga";
+"xq_new_task_list_add_new_task_text" = "Haga clic en \"+ \" para añadir una descarga";
 
 "xq_router_is_switching" = "Actualizando Información";
 
@@ -91,11 +90,11 @@
 
 "xq_mount_status_mounting" = "Montando";
 
-"xq_about_copyright_string" = "Copyright © 2014 xiaomi. Todos los derechos reservados.";
+"xq_about_copyright_string" = "Copyright © 2014 Xiaomi. Traducido @Juanillo62gm.";
 
 "xq_about_version_string" = "Versión %@";
 
-"xq_about_app_name" = "Xiaomi Mi Wifi";
+"xq_about_app_name" = "Xiaomi Mi Wi-fi";
 
 "xq_update_version_format" = "Nueva versión disponible, el número de versión más reciente %@";
 
@@ -107,7 +106,7 @@
 
 "xq_download_cancel_download" = "Cancelar descarga";
 
-"xq_download_duplicated_info" = "La descarga actual ya existe, ¿Quiere volverla a descargar?";
+"xq_download_duplicated_info" = "¿La descarga actual ya existe, ¿Quiere volverla a descargar?";
 
 "xq_download_bt_panel_title" = "¿Desea descargar el archivo?";
 
@@ -197,8 +196,6 @@
 
 "xq_error_login_network_failed" = "No se puede conectar con el servidor";
 
-
-
 "xq_bind_add_new_router" = "Añadir Router";
 
 "xq_bind_searching_router" = "Conectando al Router, por favor espere";
@@ -207,7 +204,7 @@
 
 "xq_bind_find_no_result" = "No se ha encontrado un Router disponible para vincular";
 
-"xq_bind_bind_success" = "Felicidades, vinculado correctamente!";
+"xq_bind_bind_success" = "¡Felicidades, vinculado correctamente!";
 
 "xq_bind_bind_failed" = "Error al vincular por favor, inténtalo de nuevo más tarde";
 
@@ -251,7 +248,7 @@
 
 "xq_usb_drive_retry_or_restart_router" = "Inténtelo de nuevo o reinicia el router";
 
-"xq_usb_drive_performance_bad" = "Bajo rendimiento del dispisitivo de ala";
+"xq_usb_drive_performance_bad" = "Bajo rendimiento del dispositivo";
 
 "xq_usb_drive_affect_use_recommand_mobile_hd" = "Podria afectar a la descarga, se recomienda el uso de un disco duro externo";
 
