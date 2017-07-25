@@ -1,10 +1,10 @@
-# Xiaomi Mi Wi-Fi 0.9.12 Spanish/English
+# Xiaomi Mi Wi-Fi 0.9.12 Español/English
 
 <p align="center"> 
 <img src="http://i.imgur.com/i6jxF5N.png">
 </p>
 
-## Como instalar el parche para traducir la app al español
+## Como instalar el parche para traducir la app al Español
 
 1. Descargamos e instalamos la app XMRouter 0.9.12.dmg
 2. Descargamos la carpeta zh-Hant-HK.lproj
@@ -32,11 +32,11 @@
 ### Path
 /Applications/小米路由器.app/Contents/Resources/zh-Hans.lproj
 
-# Note for English translation
+### Note for English translation
 
 If you install the english versión of the translation you must open the app, login, go to settings and click on the third option and select the second chinese name of the list for activate english translation. 
 
-# Capturas de Pantalla
+## Capturas de Pantalla
 
 <p align="center"> 
 <img src="http://i.imgur.com/wcLckyw.png">
@@ -51,7 +51,7 @@ If you install the english versión of the translation you must open the app, lo
 <img src="http://i.imgur.com/Mkyk4e0.png">
 </p>
 
-# Screenshoots
+## Screenshoots
 
 <p align="center"> 
 <img src="http://i.imgur.com/u7rw7b6.png">
